@@ -1,1 +1,5 @@
-https://github.com/mrepol742/a/blob/main/a;https://github.com/mrepol742/a/blob/main/b;https://github.com/mrepol742/a/blob/main/c;https://github.com/mrepol742/a/blob/main/d;https://github.com/mrepol742/a/blob/main/e;https://github.com/mrepol742/a/blob/main/f;https://github.com/mrepol742/a/blob/main/g
+aHR0cHM6Ly9naXRodWIuY29tL21yZXBvbDc0Mi9hL2Jsb2IvbWFpbi8;
+aHR0cHM6Ly9naXRodWIuY29tL21yZXBvbDc0Mi9hL2Jsb2IvbWFpbi8;
+aHR0cHM6Ly9naXRodWIuY29tL21yZXBvbDc0Mi9hL2Jsb2IvbWFpbi8;
+aHR0cHM6Ly9naXRodWIuY29tL21yZXBvbDc0Mi9hL2Jsb2IvbWFpbi8;
+aHR0cHM6Ly9naXRodWIuY29tL21yZXBvbDc0Mi9hL2Jsb2IvbWFpbi8
